@@ -1,0 +1,1 @@
+\b(designer|visualizer|visualization|interior|modeler|artist|3d|3D)\b
